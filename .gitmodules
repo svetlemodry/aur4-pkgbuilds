@@ -76,9 +76,6 @@
 [submodule "buildtorrent"]
 	path = buildtorrent
 	url = ssh+git://aur@aur4.archlinux.org/buildtorrent.git/
-[submodule "byacc"]
-	path = byacc
-	url = ssh+git://aur@aur4.archlinux.org/byacc.git/
 [submodule "cappuccino"]
 	path = cappuccino
 	url = ssh+git://aur@aur4.archlinux.org/cappuccino.git/

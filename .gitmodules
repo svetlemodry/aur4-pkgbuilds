@@ -661,3 +661,6 @@
 [submodule "zfo-editor"]
 	path = zfo-editor
 	url = ssh+git://aur@aur4.archlinux.org/zfo-editor.git/
+[submodule "tpp"]
+	path = tpp
+	url = ssh://aur@aur4.archlinux.org/tpp.git

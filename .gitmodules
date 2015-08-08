@@ -139,9 +139,6 @@
 [submodule "dirsync"]
 	path = dirsync
 	url = ssh+git://aur@aur.archlinux.org/dirsync.git/
-[submodule "django-1.4"]
-	path = django-1.4
-	url = ssh+git://aur@aur.archlinux.org/django-1.4.git/
 [submodule "dlume"]
 	path = dlume
 	url = ssh+git://aur@aur.archlinux.org/dlume.git/

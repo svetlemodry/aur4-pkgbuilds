@@ -469,9 +469,6 @@
 [submodule "polygen-data"]
 	path = polygen-data
 	url = ssh+git://aur@aur.archlinux.org/polygen-data.git/
-[submodule "pootle"]
-	path = pootle
-	url = ssh+git://aur@aur.archlinux.org/pootle.git/
 [submodule "powwow"]
 	path = powwow
 	url = ssh+git://aur@aur.archlinux.org/powwow.git/

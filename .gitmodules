@@ -1,666 +1,666 @@
 [submodule "04b_21"]
 	path = 04b_21
-	url = ssh+git://aur@aur4.archlinux.org/04b_21.git/
+	url = ssh+git://aur@aur.archlinux.org/04b_21.git/
 [submodule "4dtris"]
 	path = 4dtris
-	url = ssh+git://aur@aur4.archlinux.org/4dtris.git/
+	url = ssh+git://aur@aur.archlinux.org/4dtris.git/
 [submodule "4suite"]
 	path = 4suite
-	url = ssh+git://aur@aur4.archlinux.org/4suite.git/
+	url = ssh+git://aur@aur.archlinux.org/4suite.git/
 [submodule "9wm"]
 	path = 9wm
-	url = ssh+git://aur@aur4.archlinux.org/9wm.git/
+	url = ssh+git://aur@aur.archlinux.org/9wm.git/
 [submodule "aaphoto"]
 	path = aaphoto
-	url = ssh+git://aur@aur4.archlinux.org/aaphoto.git/
+	url = ssh+git://aur@aur.archlinux.org/aaphoto.git/
 [submodule "acidrip"]
 	path = acidrip
-	url = ssh+git://aur@aur4.archlinux.org/acidrip.git/
+	url = ssh+git://aur@aur.archlinux.org/acidrip.git/
 [submodule "adesklet-adeskclock"]
 	path = adesklet-adeskclock
-	url = ssh+git://aur@aur4.archlinux.org/adesklet-adeskclock.git/
+	url = ssh+git://aur@aur.archlinux.org/adesklet-adeskclock.git/
 [submodule "adesklet-aurnotify"]
 	path = adesklet-aurnotify
-	url = ssh+git://aur@aur4.archlinux.org/adesklet-aurnotify.git/
+	url = ssh+git://aur@aur.archlinux.org/adesklet-aurnotify.git/
 [submodule "adesklet-calendar"]
 	path = adesklet-calendar
-	url = ssh+git://aur@aur4.archlinux.org/adesklet-calendar.git/
+	url = ssh+git://aur@aur.archlinux.org/adesklet-calendar.git/
 [submodule "adesklets"]
 	path = adesklets
-	url = ssh+git://aur@aur4.archlinux.org/adesklets.git/
+	url = ssh+git://aur@aur.archlinux.org/adesklets.git/
 [submodule "adonthell"]
 	path = adonthell
-	url = ssh+git://aur@aur4.archlinux.org/adonthell.git/
+	url = ssh+git://aur@aur.archlinux.org/adonthell.git/
 [submodule "afick"]
 	path = afick
-	url = ssh+git://aur@aur4.archlinux.org/afick.git/
+	url = ssh+git://aur@aur.archlinux.org/afick.git/
 [submodule "aft"]
 	path = aft
-	url = ssh+git://aur@aur4.archlinux.org/aft.git/
+	url = ssh+git://aur@aur.archlinux.org/aft.git/
 [submodule "antiwm"]
 	path = antiwm
-	url = ssh+git://aur@aur4.archlinux.org/antiwm.git/
+	url = ssh+git://aur@aur.archlinux.org/antiwm.git/
 [submodule "aoetools"]
 	path = aoetools
-	url = ssh+git://aur@aur4.archlinux.org/aoetools.git/
+	url = ssh+git://aur@aur.archlinux.org/aoetools.git/
 [submodule "aqua-data-studio"]
 	path = aqua-data-studio
-	url = ssh+git://aur@aur4.archlinux.org/aqua-data-studio.git/
+	url = ssh+git://aur@aur.archlinux.org/aqua-data-studio.git/
 [submodule "archmage"]
 	path = archmage
-	url = ssh+git://aur@aur4.archlinux.org/archmage.git/
+	url = ssh+git://aur@aur.archlinux.org/archmage.git/
 [submodule "arno-iptables-firewall"]
 	path = arno-iptables-firewall
-	url = ssh+git://aur@aur4.archlinux.org/arno-iptables-firewall.git/
+	url = ssh+git://aur@aur.archlinux.org/arno-iptables-firewall.git/
 [submodule "assh"]
 	path = assh
-	url = ssh+git://aur@aur4.archlinux.org/assh.git/
+	url = ssh+git://aur@aur.archlinux.org/assh.git/
 [submodule "backdup"]
 	path = backdup
-	url = ssh+git://aur@aur4.archlinux.org/backdup.git/
+	url = ssh+git://aur@aur.archlinux.org/backdup.git/
 [submodule "bash-completion-atool"]
 	path = bash-completion-atool
-	url = ssh+git://aur@aur4.archlinux.org/bash-completion-atool.git/
+	url = ssh+git://aur@aur.archlinux.org/bash-completion-atool.git/
 [submodule "beecrypt"]
 	path = beecrypt
-	url = ssh+git://aur@aur4.archlinux.org/beecrypt.git/
+	url = ssh+git://aur@aur.archlinux.org/beecrypt.git/
 [submodule "beediff"]
 	path = beediff
-	url = ssh+git://aur@aur4.archlinux.org/beediff.git/
+	url = ssh+git://aur@aur.archlinux.org/beediff.git/
 [submodule "bitext2tmx"]
 	path = bitext2tmx
-	url = ssh+git://aur@aur4.archlinux.org/bitext2tmx.git/
+	url = ssh+git://aur@aur.archlinux.org/bitext2tmx.git/
 [submodule "bsc"]
 	path = bsc
-	url = ssh+git://aur@aur4.archlinux.org/bsc.git/
+	url = ssh+git://aur@aur.archlinux.org/bsc.git/
 [submodule "buildtorrent"]
 	path = buildtorrent
-	url = ssh+git://aur@aur4.archlinux.org/buildtorrent.git/
+	url = ssh+git://aur@aur.archlinux.org/buildtorrent.git/
 [submodule "cappuccino"]
 	path = cappuccino
-	url = ssh+git://aur@aur4.archlinux.org/cappuccino.git/
+	url = ssh+git://aur@aur.archlinux.org/cappuccino.git/
 [submodule "castget-unstable"]
 	path = castget-unstable
-	url = ssh+git://aur@aur4.archlinux.org/castget-unstable.git/
+	url = ssh+git://aur@aur.archlinux.org/castget-unstable.git/
 [submodule "cdspeed"]
 	path = cdspeed
-	url = ssh+git://aur@aur4.archlinux.org/cdspeed.git/
+	url = ssh+git://aur@aur.archlinux.org/cdspeed.git/
 [submodule "checkpassword"]
 	path = checkpassword
-	url = ssh+git://aur@aur4.archlinux.org/checkpassword.git/
+	url = ssh+git://aur@aur.archlinux.org/checkpassword.git/
 [submodule "chk4mail"]
 	path = chk4mail
-	url = ssh+git://aur@aur4.archlinux.org/chk4mail.git/
+	url = ssh+git://aur@aur.archlinux.org/chk4mail.git/
 [submodule "ck4up"]
 	path = ck4up
-	url = ssh+git://aur@aur4.archlinux.org/ck4up.git/
+	url = ssh+git://aur@aur.archlinux.org/ck4up.git/
 [submodule "codemetre"]
 	path = codemetre
-	url = ssh+git://aur@aur4.archlinux.org/codemetre.git/
+	url = ssh+git://aur@aur.archlinux.org/codemetre.git/
 [submodule "cstools"]
 	path = cstools
-	url = ssh+git://aur@aur4.archlinux.org/cstools.git/
+	url = ssh+git://aur@aur.archlinux.org/cstools.git/
 [submodule "datovka"]
 	path = datovka
-	url = ssh+git://aur@aur4.archlinux.org/datovka.git/
+	url = ssh+git://aur@aur.archlinux.org/datovka.git/
 [submodule "datovka-git"]
 	path = datovka-git
-	url = ssh+git://aur@aur4.archlinux.org/datovka-git.git/
+	url = ssh+git://aur@aur.archlinux.org/datovka-git.git/
 [submodule "dbhub"]
 	path = dbhub
-	url = ssh+git://aur@aur4.archlinux.org/dbhub.git/
+	url = ssh+git://aur@aur.archlinux.org/dbhub.git/
 [submodule "dclib"]
 	path = dclib
-	url = ssh+git://aur@aur4.archlinux.org/dclib.git/
+	url = ssh+git://aur@aur.archlinux.org/dclib.git/
 [submodule "debian-gdm-themes"]
 	path = debian-gdm-themes
-	url = ssh+git://aur@aur4.archlinux.org/debian-gdm-themes.git/
+	url = ssh+git://aur@aur.archlinux.org/debian-gdm-themes.git/
 [submodule "deco"]
 	path = deco
-	url = ssh+git://aur@aur4.archlinux.org/deco.git/
+	url = ssh+git://aur@aur.archlinux.org/deco.git/
 [submodule "deco-archive"]
 	path = deco-archive
-	url = ssh+git://aur@aur4.archlinux.org/deco-archive.git/
+	url = ssh+git://aur@aur.archlinux.org/deco-archive.git/
 [submodule "desklaunch"]
 	path = desklaunch
-	url = ssh+git://aur@aur4.archlinux.org/desklaunch.git/
+	url = ssh+git://aur@aur.archlinux.org/desklaunch.git/
 [submodule "detox"]
 	path = detox
-	url = ssh+git://aur@aur4.archlinux.org/detox.git/
+	url = ssh+git://aur@aur.archlinux.org/detox.git/
 [submodule "diff2colorhtml"]
 	path = diff2colorhtml
-	url = ssh+git://aur@aur4.archlinux.org/diff2colorhtml.git/
+	url = ssh+git://aur@aur.archlinux.org/diff2colorhtml.git/
 [submodule "diffxml"]
 	path = diffxml
-	url = ssh+git://aur@aur4.archlinux.org/diffxml.git/
+	url = ssh+git://aur@aur.archlinux.org/diffxml.git/
 [submodule "digup"]
 	path = digup
-	url = ssh+git://aur@aur4.archlinux.org/digup.git/
+	url = ssh+git://aur@aur.archlinux.org/digup.git/
 [submodule "dirsync"]
 	path = dirsync
-	url = ssh+git://aur@aur4.archlinux.org/dirsync.git/
+	url = ssh+git://aur@aur.archlinux.org/dirsync.git/
 [submodule "django-1.4"]
 	path = django-1.4
-	url = ssh+git://aur@aur4.archlinux.org/django-1.4.git/
+	url = ssh+git://aur@aur.archlinux.org/django-1.4.git/
 [submodule "django-taggit"]
 	path = django-taggit
-	url = ssh+git://aur@aur4.archlinux.org/django-taggit.git/
+	url = ssh+git://aur@aur.archlinux.org/django-taggit.git/
 [submodule "dlume"]
 	path = dlume
-	url = ssh+git://aur@aur4.archlinux.org/dlume.git/
+	url = ssh+git://aur@aur.archlinux.org/dlume.git/
 [submodule "dnsflood"]
 	path = dnsflood
-	url = ssh+git://aur@aur4.archlinux.org/dnsflood.git/
+	url = ssh+git://aur@aur.archlinux.org/dnsflood.git/
 [submodule "draci-historie-cz"]
 	path = draci-historie-cz
-	url = ssh+git://aur@aur4.archlinux.org/draci-historie-cz.git/
+	url = ssh+git://aur@aur.archlinux.org/draci-historie-cz.git/
 [submodule "draci-historie-dubbing-cz"]
 	path = draci-historie-dubbing-cz
-	url = ssh+git://aur@aur4.archlinux.org/draci-historie-dubbing-cz.git/
+	url = ssh+git://aur@aur.archlinux.org/draci-historie-dubbing-cz.git/
 [submodule "draci-historie-en"]
 	path = draci-historie-en
-	url = ssh+git://aur@aur4.archlinux.org/draci-historie-en.git/
+	url = ssh+git://aur@aur.archlinux.org/draci-historie-en.git/
 [submodule "draci-historie-pl"]
 	path = draci-historie-pl
-	url = ssh+git://aur@aur4.archlinux.org/draci-historie-pl.git/
+	url = ssh+git://aur@aur.archlinux.org/draci-historie-pl.git/
 [submodule "drascula"]
 	path = drascula
-	url = ssh+git://aur@aur4.archlinux.org/drascula.git/
+	url = ssh+git://aur@aur.archlinux.org/drascula.git/
 [submodule "drascula-audio"]
 	path = drascula-audio
-	url = ssh+git://aur@aur4.archlinux.org/drascula-audio.git/
+	url = ssh+git://aur@aur.archlinux.org/drascula-audio.git/
 [submodule "drascula-audio-flac"]
 	path = drascula-audio-flac
-	url = ssh+git://aur@aur4.archlinux.org/drascula-audio-flac.git/
+	url = ssh+git://aur@aur.archlinux.org/drascula-audio-flac.git/
 [submodule "drascula-audio-mp3"]
 	path = drascula-audio-mp3
-	url = ssh+git://aur@aur4.archlinux.org/drascula-audio-mp3.git/
+	url = ssh+git://aur@aur.archlinux.org/drascula-audio-mp3.git/
 [submodule "dslib"]
 	path = dslib
-	url = ssh+git://aur@aur4.archlinux.org/dslib.git/
+	url = ssh+git://aur@aur.archlinux.org/dslib.git/
 [submodule "dslib-git"]
 	path = dslib-git
-	url = ssh+git://aur@aur4.archlinux.org/dslib-git.git/
+	url = ssh+git://aur@aur.archlinux.org/dslib-git.git/
 [submodule "eaglemode"]
 	path = eaglemode
-	url = ssh+git://aur@aur4.archlinux.org/eaglemode.git/
+	url = ssh+git://aur@aur.archlinux.org/eaglemode.git/
 [submodule "efte"]
 	path = efte
-	url = ssh+git://aur@aur4.archlinux.org/efte.git/
+	url = ssh+git://aur@aur.archlinux.org/efte.git/
 [submodule "empty"]
 	path = empty
-	url = ssh+git://aur@aur4.archlinux.org/empty.git/
+	url = ssh+git://aur@aur.archlinux.org/empty.git/
 [submodule "emptyclip"]
 	path = emptyclip
-	url = ssh+git://aur@aur4.archlinux.org/emptyclip.git/
+	url = ssh+git://aur@aur.archlinux.org/emptyclip.git/
 [submodule "eric4-i18n"]
 	path = eric4-i18n
-	url = ssh+git://aur@aur4.archlinux.org/eric4-i18n.git/
+	url = ssh+git://aur@aur.archlinux.org/eric4-i18n.git/
 [submodule "evad"]
 	path = evad
-	url = ssh+git://aur@aur4.archlinux.org/evad.git/
+	url = ssh+git://aur@aur.archlinux.org/evad.git/
 [submodule "evad-svn"]
 	path = evad-svn
-	url = ssh+git://aur@aur4.archlinux.org/evad-svn.git/
+	url = ssh+git://aur@aur.archlinux.org/evad-svn.git/
 [submodule "eviltris"]
 	path = eviltris
-	url = ssh+git://aur@aur4.archlinux.org/eviltris.git/
+	url = ssh+git://aur@aur.archlinux.org/eviltris.git/
 [submodule "exiftags"]
 	path = exiftags
-	url = ssh+git://aur@aur4.archlinux.org/exiftags.git/
+	url = ssh+git://aur@aur.archlinux.org/exiftags.git/
 [submodule "file-rename-utils"]
 	path = file-rename-utils
-	url = ssh+git://aur@aur4.archlinux.org/file-rename-utils.git/
+	url = ssh+git://aur@aur.archlinux.org/file-rename-utils.git/
 [submodule "findbrokenpkgs"]
 	path = findbrokenpkgs
-	url = ssh+git://aur@aur4.archlinux.org/findbrokenpkgs.git/
+	url = ssh+git://aur@aur.archlinux.org/findbrokenpkgs.git/
 [submodule "flactagger"]
 	path = flactagger
-	url = ssh+git://aur@aur4.archlinux.org/flactagger.git/
+	url = ssh+git://aur@aur.archlinux.org/flactagger.git/
 [submodule "fortune-mod-cs"]
 	path = fortune-mod-cs
-	url = ssh+git://aur@aur4.archlinux.org/fortune-mod-cs.git/
+	url = ssh+git://aur@aur.archlinux.org/fortune-mod-cs.git/
 [submodule "fortune-mod-cs-reddwarf"]
 	path = fortune-mod-cs-reddwarf
-	url = ssh+git://aur@aur4.archlinux.org/fortune-mod-cs-reddwarf.git/
+	url = ssh+git://aur@aur.archlinux.org/fortune-mod-cs-reddwarf.git/
 [submodule "fortune-mod-de"]
 	path = fortune-mod-de
-	url = ssh+git://aur@aur4.archlinux.org/fortune-mod-de.git/
+	url = ssh+git://aur@aur.archlinux.org/fortune-mod-de.git/
 [submodule "fortune-mod-xfiles"]
 	path = fortune-mod-xfiles
-	url = ssh+git://aur@aur4.archlinux.org/fortune-mod-xfiles.git/
+	url = ssh+git://aur@aur.archlinux.org/fortune-mod-xfiles.git/
 [submodule "fotaq"]
 	path = fotaq
-	url = ssh+git://aur@aur4.archlinux.org/fotaq.git/
+	url = ssh+git://aur@aur.archlinux.org/fotaq.git/
 [submodule "fraqtive"]
 	path = fraqtive
-	url = ssh+git://aur@aur4.archlinux.org/fraqtive.git/
+	url = ssh+git://aur@aur.archlinux.org/fraqtive.git/
 [submodule "ftwin"]
 	path = ftwin
-	url = ssh+git://aur@aur4.archlinux.org/ftwin.git/
+	url = ssh+git://aur@aur.archlinux.org/ftwin.git/
 [submodule "galapix"]
 	path = galapix
-	url = ssh+git://aur@aur4.archlinux.org/galapix.git/
+	url = ssh+git://aur@aur.archlinux.org/galapix.git/
 [submodule "gdeskcal"]
 	path = gdeskcal
-	url = ssh+git://aur@aur4.archlinux.org/gdeskcal.git/
+	url = ssh+git://aur@aur.archlinux.org/gdeskcal.git/
 [submodule "gdm-themes"]
 	path = gdm-themes
-	url = ssh+git://aur@aur4.archlinux.org/gdm-themes.git/
+	url = ssh+git://aur@aur.archlinux.org/gdm-themes.git/
 [submodule "geekcode"]
 	path = geekcode
-	url = ssh+git://aur@aur4.archlinux.org/geekcode.git/
+	url = ssh+git://aur@aur.archlinux.org/geekcode.git/
 [submodule "geo"]
 	path = geo
-	url = ssh+git://aur@aur4.archlinux.org/geo.git/
+	url = ssh+git://aur@aur.archlinux.org/geo.git/
 [submodule "geotoad"]
 	path = geotoad
-	url = ssh+git://aur@aur4.archlinux.org/geotoad.git/
+	url = ssh+git://aur@aur.archlinux.org/geotoad.git/
 [submodule "ggps"]
 	path = ggps
-	url = ssh+git://aur@aur4.archlinux.org/ggps.git/
+	url = ssh+git://aur@aur.archlinux.org/ggps.git/
 [submodule "gigolo"]
 	path = gigolo
-	url = ssh+git://aur@aur4.archlinux.org/gigolo.git/
+	url = ssh+git://aur@aur.archlinux.org/gigolo.git/
 [submodule "gimp-plugin-pandora"]
 	path = gimp-plugin-pandora
-	url = ssh+git://aur@aur4.archlinux.org/gimp-plugin-pandora.git/
+	url = ssh+git://aur@aur.archlinux.org/gimp-plugin-pandora.git/
 [submodule "gitfs"]
 	path = gitfs
-	url = ssh+git://aur@aur4.archlinux.org/gitfs.git/
+	url = ssh+git://aur@aur.archlinux.org/gitfs.git/
 [submodule "gltron"]
 	path = gltron
-	url = ssh+git://aur@aur4.archlinux.org/gltron.git/
+	url = ssh+git://aur@aur.archlinux.org/gltron.git/
 [submodule "gmimms"]
 	path = gmimms
-	url = ssh+git://aur@aur4.archlinux.org/gmimms.git/
+	url = ssh+git://aur@aur.archlinux.org/gmimms.git/
 [submodule "gnopaster"]
 	path = gnopaster
-	url = ssh+git://aur@aur4.archlinux.org/gnopaster.git/
+	url = ssh+git://aur@aur.archlinux.org/gnopaster.git/
 [submodule "gpicsync-svn"]
 	path = gpicsync-svn
-	url = ssh+git://aur@aur4.archlinux.org/gpicsync-svn.git/
+	url = ssh+git://aur@aur.archlinux.org/gpicsync-svn.git/
 [submodule "gps2photo"]
 	path = gps2photo
-	url = ssh+git://aur@aur4.archlinux.org/gps2photo.git/
+	url = ssh+git://aur@aur.archlinux.org/gps2photo.git/
 [submodule "gpsdings"]
 	path = gpsdings
-	url = ssh+git://aur@aur4.archlinux.org/gpsdings.git/
+	url = ssh+git://aur@aur.archlinux.org/gpsdings.git/
 [submodule "gringotts"]
 	path = gringotts
-	url = ssh+git://aur@aur4.archlinux.org/gringotts.git/
+	url = ssh+git://aur@aur.archlinux.org/gringotts.git/
 [submodule "groff-utf8"]
 	path = groff-utf8
-	url = ssh+git://aur@aur4.archlinux.org/groff-utf8.git/
+	url = ssh+git://aur@aur.archlinux.org/groff-utf8.git/
 [submodule "grpn"]
 	path = grpn
-	url = ssh+git://aur@aur4.archlinux.org/grpn.git/
+	url = ssh+git://aur@aur.archlinux.org/grpn.git/
 [submodule "hot-babe"]
 	path = hot-babe
-	url = ssh+git://aur@aur4.archlinux.org/hot-babe.git/
+	url = ssh+git://aur@aur.archlinux.org/hot-babe.git/
 [submodule "hotwire"]
 	path = hotwire
-	url = ssh+git://aur@aur4.archlinux.org/hotwire.git/
+	url = ssh+git://aur@aur.archlinux.org/hotwire.git/
 [submodule "http-replicator"]
 	path = http-replicator
-	url = ssh+git://aur@aur4.archlinux.org/http-replicator.git/
+	url = ssh+git://aur@aur.archlinux.org/http-replicator.git/
 [submodule "ignuit"]
 	path = ignuit
-	url = ssh+git://aur@aur4.archlinux.org/ignuit.git/
+	url = ssh+git://aur@aur.archlinux.org/ignuit.git/
 [submodule "iotop-git"]
 	path = iotop-git
-	url = ssh+git://aur@aur4.archlinux.org/iotop-git.git/
+	url = ssh+git://aur@aur.archlinux.org/iotop-git.git/
 [submodule "janet"]
 	path = janet
-	url = ssh+git://aur@aur4.archlinux.org/janet.git/
+	url = ssh+git://aur@aur.archlinux.org/janet.git/
 [submodule "jnetmap"]
 	path = jnetmap
-	url = ssh+git://aur@aur4.archlinux.org/jnetmap.git/
+	url = ssh+git://aur@aur.archlinux.org/jnetmap.git/
 [submodule "jobqueue"]
 	path = jobqueue
-	url = ssh+git://aur@aur4.archlinux.org/jobqueue.git/
+	url = ssh+git://aur@aur.archlinux.org/jobqueue.git/
 [submodule "jpilot"]
 	path = jpilot
-	url = ssh+git://aur@aur4.archlinux.org/jpilot.git/
+	url = ssh+git://aur@aur.archlinux.org/jpilot.git/
 [submodule "jtoolkit"]
 	path = jtoolkit
-	url = ssh+git://aur@aur4.archlinux.org/jtoolkit.git/
+	url = ssh+git://aur@aur.archlinux.org/jtoolkit.git/
 [submodule "kudus"]
 	path = kudus
-	url = ssh+git://aur@aur4.archlinux.org/kudus.git/
+	url = ssh+git://aur@aur.archlinux.org/kudus.git/
 [submodule "libghttp"]
 	path = libghttp
-	url = ssh+git://aur@aur4.archlinux.org/libghttp.git/
+	url = ssh+git://aur@aur.archlinux.org/libghttp.git/
 [submodule "libhtp"]
 	path = libhtp
-	url = ssh+git://aur@aur4.archlinux.org/libhtp.git/
+	url = ssh+git://aur@aur.archlinux.org/libhtp.git/
 [submodule "libisds"]
 	path = libisds
-	url = ssh+git://aur@aur4.archlinux.org/libisds.git/
+	url = ssh+git://aur@aur.archlinux.org/libisds.git/
 [submodule "libpuzzle"]
 	path = libpuzzle
-	url = ssh+git://aur@aur4.archlinux.org/libpuzzle.git/
+	url = ssh+git://aur@aur.archlinux.org/libpuzzle.git/
 [submodule "link-backup"]
 	path = link-backup
-	url = ssh+git://aur@aur4.archlinux.org/link-backup.git/
+	url = ssh+git://aur@aur.archlinux.org/link-backup.git/
 [submodule "lite2do"]
 	path = lite2do
-	url = ssh+git://aur@aur4.archlinux.org/lite2do.git/
+	url = ssh+git://aur@aur.archlinux.org/lite2do.git/
 [submodule "lk4b"]
 	path = lk4b
-	url = ssh+git://aur@aur4.archlinux.org/lk4b.git/
+	url = ssh+git://aur@aur.archlinux.org/lk4b.git/
 [submodule "lmarbles"]
 	path = lmarbles
-	url = ssh+git://aur@aur4.archlinux.org/lmarbles.git/
+	url = ssh+git://aur@aur.archlinux.org/lmarbles.git/
 [submodule "loqui"]
 	path = loqui
-	url = ssh+git://aur@aur4.archlinux.org/loqui.git/
+	url = ssh+git://aur@aur.archlinux.org/loqui.git/
 [submodule "lostirc"]
 	path = lostirc
-	url = ssh+git://aur@aur4.archlinux.org/lostirc.git/
+	url = ssh+git://aur@aur.archlinux.org/lostirc.git/
 [submodule "lostlabyrinth"]
 	path = lostlabyrinth
-	url = ssh+git://aur@aur4.archlinux.org/lostlabyrinth.git/
+	url = ssh+git://aur@aur.archlinux.org/lostlabyrinth.git/
 [submodule "lotr"]
 	path = lotr
-	url = ssh+git://aur@aur4.archlinux.org/lotr.git/
+	url = ssh+git://aur@aur.archlinux.org/lotr.git/
 [submodule "lzlib"]
 	path = lzlib
-	url = ssh+git://aur@aur4.archlinux.org/lzlib.git/
+	url = ssh+git://aur@aur.archlinux.org/lzlib.git/
 [submodule "magicrescue"]
 	path = magicrescue
-	url = ssh+git://aur@aur4.archlinux.org/magicrescue.git/
+	url = ssh+git://aur@aur.archlinux.org/magicrescue.git/
 [submodule "md5"]
 	path = md5
-	url = ssh+git://aur@aur4.archlinux.org/md5.git/
+	url = ssh+git://aur@aur.archlinux.org/md5.git/
 [submodule "mencal"]
 	path = mencal
-	url = ssh+git://aur@aur4.archlinux.org/mencal.git/
+	url = ssh+git://aur@aur.archlinux.org/mencal.git/
 [submodule "mgw"]
 	path = mgw
-	url = ssh+git://aur@aur4.archlinux.org/mgw.git/
+	url = ssh+git://aur@aur.archlinux.org/mgw.git/
 [submodule "mimms"]
 	path = mimms
-	url = ssh+git://aur@aur4.archlinux.org/mimms.git/
+	url = ssh+git://aur@aur.archlinux.org/mimms.git/
 [submodule "mm2odt"]
 	path = mm2odt
-	url = ssh+git://aur@aur4.archlinux.org/mm2odt.git/
+	url = ssh+git://aur@aur.archlinux.org/mm2odt.git/
 [submodule "mmucl"]
 	path = mmucl
-	url = ssh+git://aur@aur4.archlinux.org/mmucl.git/
+	url = ssh+git://aur@aur.archlinux.org/mmucl.git/
 [submodule "moon-buggy"]
 	path = moon-buggy
-	url = ssh+git://aur@aur4.archlinux.org/moon-buggy.git/
+	url = ssh+git://aur@aur.archlinux.org/moon-buggy.git/
 [submodule "mu"]
 	path = mu
-	url = ssh+git://aur@aur4.archlinux.org/mu.git/
+	url = ssh+git://aur@aur.archlinux.org/mu.git/
 [submodule "mudix"]
 	path = mudix
-	url = ssh+git://aur@aur4.archlinux.org/mudix.git/
+	url = ssh+git://aur@aur.archlinux.org/mudix.git/
 [submodule "mudmagic"]
 	path = mudmagic
-	url = ssh+git://aur@aur4.archlinux.org/mudmagic.git/
+	url = ssh+git://aur@aur.archlinux.org/mudmagic.git/
 [submodule "mutt-utils"]
 	path = mutt-utils
-	url = ssh+git://aur@aur4.archlinux.org/mutt-utils.git/
+	url = ssh+git://aur@aur.archlinux.org/mutt-utils.git/
 [submodule "neonview"]
 	path = neonview
-	url = ssh+git://aur@aur4.archlinux.org/neonview.git/
+	url = ssh+git://aur@aur.archlinux.org/neonview.git/
 [submodule "netstiff"]
 	path = netstiff
-	url = ssh+git://aur@aur4.archlinux.org/netstiff.git/
+	url = ssh+git://aur@aur.archlinux.org/netstiff.git/
 [submodule "newstap"]
 	path = newstap
-	url = ssh+git://aur@aur4.archlinux.org/newstap.git/
+	url = ssh+git://aur@aur.archlinux.org/newstap.git/
 [submodule "nzb"]
 	path = nzb
-	url = ssh+git://aur@aur4.archlinux.org/nzb.git/
+	url = ssh+git://aur@aur.archlinux.org/nzb.git/
 [submodule "nzbperl"]
 	path = nzbperl
-	url = ssh+git://aur@aur4.archlinux.org/nzbperl.git/
+	url = ssh+git://aur@aur.archlinux.org/nzbperl.git/
 [submodule "oggvideotools"]
 	path = oggvideotools
-	url = ssh+git://aur@aur4.archlinux.org/oggvideotools.git/
+	url = ssh+git://aur@aur.archlinux.org/oggvideotools.git/
 [submodule "omegat"]
 	path = omegat
-	url = ssh+git://aur@aur4.archlinux.org/omegat.git/
+	url = ssh+git://aur@aur.archlinux.org/omegat.git/
 [submodule "omegat-beta"]
 	path = omegat-beta
-	url = ssh+git://aur@aur4.archlinux.org/omegat-beta.git/
+	url = ssh+git://aur@aur.archlinux.org/omegat-beta.git/
 [submodule "omegat-plugin-apertium"]
 	path = omegat-plugin-apertium
-	url = ssh+git://aur@aur4.archlinux.org/omegat-plugin-apertium.git/
+	url = ssh+git://aur@aur.archlinux.org/omegat-plugin-apertium.git/
 [submodule "omegat-plugin-okapi"]
 	path = omegat-plugin-okapi
-	url = ssh+git://aur@aur4.archlinux.org/omegat-plugin-okapi.git/
+	url = ssh+git://aur@aur.archlinux.org/omegat-plugin-okapi.git/
 [submodule "omegat-plugin-yandex"]
 	path = omegat-plugin-yandex
-	url = ssh+git://aur@aur4.archlinux.org/omegat-plugin-yandex.git/
+	url = ssh+git://aur@aur.archlinux.org/omegat-plugin-yandex.git/
 [submodule "opencachemanager"]
 	path = opencachemanager
-	url = ssh+git://aur@aur4.archlinux.org/opencachemanager.git/
+	url = ssh+git://aur@aur.archlinux.org/opencachemanager.git/
 [submodule "osmo-svn"]
 	path = osmo-svn
-	url = ssh+git://aur@aur4.archlinux.org/osmo-svn.git/
+	url = ssh+git://aur@aur.archlinux.org/osmo-svn.git/
 [submodule "periodiccalendar"]
 	path = periodiccalendar
-	url = ssh+git://aur@aur4.archlinux.org/periodiccalendar.git/
+	url = ssh+git://aur@aur.archlinux.org/periodiccalendar.git/
 [submodule "pessulus"]
 	path = pessulus
-	url = ssh+git://aur@aur4.archlinux.org/pessulus.git/
+	url = ssh+git://aur@aur.archlinux.org/pessulus.git/
 [submodule "photomolo"]
 	path = photomolo
-	url = ssh+git://aur@aur4.archlinux.org/photomolo.git/
+	url = ssh+git://aur@aur.archlinux.org/photomolo.git/
 [submodule "photorecover"]
 	path = photorecover
-	url = ssh+git://aur@aur4.archlinux.org/photorecover.git/
+	url = ssh+git://aur@aur.archlinux.org/photorecover.git/
 [submodule "picturesort"]
 	path = picturesort
-	url = ssh+git://aur@aur4.archlinux.org/picturesort.git/
+	url = ssh+git://aur@aur.archlinux.org/picturesort.git/
 [submodule "pigterm"]
 	path = pigterm
-	url = ssh+git://aur@aur4.archlinux.org/pigterm.git/
+	url = ssh+git://aur@aur.archlinux.org/pigterm.git/
 [submodule "pipewalker"]
 	path = pipewalker
-	url = ssh+git://aur@aur4.archlinux.org/pipewalker.git/
+	url = ssh+git://aur@aur.archlinux.org/pipewalker.git/
 [submodule "pkgextract"]
 	path = pkgextract
-	url = ssh+git://aur@aur4.archlinux.org/pkgextract.git/
+	url = ssh+git://aur@aur.archlinux.org/pkgextract.git/
 [submodule "pngslice"]
 	path = pngslice
-	url = ssh+git://aur@aur4.archlinux.org/pngslice.git/
+	url = ssh+git://aur@aur.archlinux.org/pngslice.git/
 [submodule "polygen"]
 	path = polygen
-	url = ssh+git://aur@aur4.archlinux.org/polygen.git/
+	url = ssh+git://aur@aur.archlinux.org/polygen.git/
 [submodule "polygen-data"]
 	path = polygen-data
-	url = ssh+git://aur@aur4.archlinux.org/polygen-data.git/
+	url = ssh+git://aur@aur.archlinux.org/polygen-data.git/
 [submodule "pootle"]
 	path = pootle
-	url = ssh+git://aur@aur4.archlinux.org/pootle.git/
+	url = ssh+git://aur@aur.archlinux.org/pootle.git/
 [submodule "powwow"]
 	path = powwow
-	url = ssh+git://aur@aur4.archlinux.org/powwow.git/
+	url = ssh+git://aur@aur.archlinux.org/powwow.git/
 [submodule "pscpug"]
 	path = pscpug
-	url = ssh+git://aur@aur4.archlinux.org/pscpug.git/
+	url = ssh+git://aur@aur.archlinux.org/pscpug.git/
 [submodule "python-django-taggit"]
 	path = python-django-taggit
-	url = ssh+git://aur@aur4.archlinux.org/python-django-taggit.git/
+	url = ssh+git://aur@aur.archlinux.org/python-django-taggit.git/
 [submodule "python-odorik"]
 	path = python-odorik
-	url = ssh+git://aur@aur4.archlinux.org/python-odorik.git/
+	url = ssh+git://aur@aur.archlinux.org/python-odorik.git/
 [submodule "python2-git-up"]
 	path = python2-git-up
-	url = ssh+git://aur@aur4.archlinux.org/python2-git-up.git/
+	url = ssh+git://aur@aur.archlinux.org/python2-git-up.git/
 [submodule "python2-south-0.7"]
 	path = python2-south-0.7
-	url = ssh+git://aur@aur4.archlinux.org/python2-south-0.7.git/
+	url = ssh+git://aur@aur.archlinux.org/python2-south-0.7.git/
 [submodule "python2-webassets-0.10"]
 	path = python2-webassets-0.10
-	url = ssh+git://aur@aur4.archlinux.org/python2-webassets-0.10.git/
+	url = ssh+git://aur@aur.archlinux.org/python2-webassets-0.10.git/
 [submodule "qirssi"]
 	path = qirssi
-	url = ssh+git://aur@aur4.archlinux.org/qirssi.git/
+	url = ssh+git://aur@aur.archlinux.org/qirssi.git/
 [submodule "rainlendar-lite"]
 	path = rainlendar-lite
-	url = ssh+git://aur@aur4.archlinux.org/rainlendar-lite.git/
+	url = ssh+git://aur@aur.archlinux.org/rainlendar-lite.git/
 [submodule "ranpwd"]
 	path = ranpwd
-	url = ssh+git://aur@aur4.archlinux.org/ranpwd.git/
+	url = ssh+git://aur@aur.archlinux.org/ranpwd.git/
 [submodule "rdiff-backup-devel"]
 	path = rdiff-backup-devel
-	url = ssh+git://aur@aur4.archlinux.org/rdiff-backup-devel.git/
+	url = ssh+git://aur@aur.archlinux.org/rdiff-backup-devel.git/
 [submodule "retty"]
 	path = retty
-	url = ssh+git://aur@aur4.archlinux.org/retty.git/
+	url = ssh+git://aur@aur.archlinux.org/retty.git/
 [submodule "rip"]
 	path = rip
-	url = ssh+git://aur@aur4.archlinux.org/rip.git/
+	url = ssh+git://aur@aur.archlinux.org/rip.git/
 [submodule "sabayon"]
 	path = sabayon
-	url = ssh+git://aur@aur4.archlinux.org/sabayon.git/
+	url = ssh+git://aur@aur.archlinux.org/sabayon.git/
 [submodule "safecopy"]
 	path = safecopy
-	url = ssh+git://aur@aur4.archlinux.org/safecopy.git/
+	url = ssh+git://aur@aur.archlinux.org/safecopy.git/
 [submodule "safekeep"]
 	path = safekeep
-	url = ssh+git://aur@aur4.archlinux.org/safekeep.git/
+	url = ssh+git://aur@aur.archlinux.org/safekeep.git/
 [submodule "sclient"]
 	path = sclient
-	url = ssh+git://aur@aur4.archlinux.org/sclient.git/
+	url = ssh+git://aur@aur.archlinux.org/sclient.git/
 [submodule "scrub"]
 	path = scrub
-	url = ssh+git://aur@aur4.archlinux.org/scrub.git/
+	url = ssh+git://aur@aur.archlinux.org/scrub.git/
 [submodule "shn2make"]
 	path = shn2make
-	url = ssh+git://aur@aur4.archlinux.org/shn2make.git/
+	url = ssh+git://aur@aur.archlinux.org/shn2make.git/
 [submodule "shorten"]
 	path = shorten
-	url = ssh+git://aur@aur4.archlinux.org/shorten.git/
+	url = ssh+git://aur@aur.archlinux.org/shorten.git/
 [submodule "simon"]
 	path = simon
-	url = ssh+git://aur@aur4.archlinux.org/simon.git/
+	url = ssh+git://aur@aur.archlinux.org/simon.git/
 [submodule "snorenotify"]
 	path = snorenotify
-	url = ssh+git://aur@aur4.archlinux.org/snorenotify.git/
+	url = ssh+git://aur@aur.archlinux.org/snorenotify.git/
 [submodule "sntop"]
 	path = sntop
-	url = ssh+git://aur@aur4.archlinux.org/sntop.git/
+	url = ssh+git://aur@aur.archlinux.org/sntop.git/
 [submodule "specto-bzr"]
 	path = specto-bzr
-	url = ssh+git://aur@aur4.archlinux.org/specto-bzr.git/
+	url = ssh+git://aur@aur.archlinux.org/specto-bzr.git/
 [submodule "spelt"]
 	path = spelt
-	url = ssh+git://aur@aur4.archlinux.org/spelt.git/
+	url = ssh+git://aur@aur.archlinux.org/spelt.git/
 [submodule "squirrel"]
 	path = squirrel
-	url = ssh+git://aur@aur4.archlinux.org/squirrel.git/
+	url = ssh+git://aur@aur.archlinux.org/squirrel.git/
 [submodule "srtm2osm"]
 	path = srtm2osm
-	url = ssh+git://aur@aur4.archlinux.org/srtm2osm.git/
+	url = ssh+git://aur@aur.archlinux.org/srtm2osm.git/
 [submodule "ssh-installkeys"]
 	path = ssh-installkeys
-	url = ssh+git://aur@aur4.archlinux.org/ssh-installkeys.git/
+	url = ssh+git://aur@aur.archlinux.org/ssh-installkeys.git/
 [submodule "sshconf"]
 	path = sshconf
-	url = ssh+git://aur@aur4.archlinux.org/sshconf.git/
+	url = ssh+git://aur@aur.archlinux.org/sshconf.git/
 [submodule "sshdfilter"]
 	path = sshdfilter
-	url = ssh+git://aur@aur4.archlinux.org/sshdfilter.git/
+	url = ssh+git://aur@aur.archlinux.org/sshdfilter.git/
 [submodule "stardict-cz"]
 	path = stardict-cz
-	url = ssh+git://aur@aur4.archlinux.org/stardict-cz.git/
+	url = ssh+git://aur@aur.archlinux.org/stardict-cz.git/
 [submodule "sudsds"]
 	path = sudsds
-	url = ssh+git://aur@aur4.archlinux.org/sudsds.git/
+	url = ssh+git://aur@aur.archlinux.org/sudsds.git/
 [submodule "superswitcher"]
 	path = superswitcher
-	url = ssh+git://aur@aur4.archlinux.org/superswitcher.git/
+	url = ssh+git://aur@aur.archlinux.org/superswitcher.git/
 [submodule "suricata"]
 	path = suricata
-	url = ssh+git://aur@aur4.archlinux.org/suricata.git/
+	url = ssh+git://aur@aur.archlinux.org/suricata.git/
 [submodule "swish-e"]
 	path = swish-e
-	url = ssh+git://aur@aur4.archlinux.org/swish-e.git/
+	url = ssh+git://aur@aur.archlinux.org/swish-e.git/
 [submodule "throttle"]
 	path = throttle
-	url = ssh+git://aur@aur4.archlinux.org/throttle.git/
+	url = ssh+git://aur@aur.archlinux.org/throttle.git/
 [submodule "tiger"]
 	path = tiger
-	url = ssh+git://aur@aur4.archlinux.org/tiger.git/
+	url = ssh+git://aur@aur.archlinux.org/tiger.git/
 [submodule "tmx2txt"]
 	path = tmx2txt
-	url = ssh+git://aur@aur4.archlinux.org/tmx2txt.git/
+	url = ssh+git://aur@aur.archlinux.org/tmx2txt.git/
 [submodule "transolution"]
 	path = transolution
-	url = ssh+git://aur@aur4.archlinux.org/transolution.git/
+	url = ssh+git://aur@aur.archlinux.org/transolution.git/
 [submodule "ttf-dugfont"]
 	path = ttf-dugfont
-	url = ssh+git://aur@aur4.archlinux.org/ttf-dugfont.git/
+	url = ssh+git://aur@aur.archlinux.org/ttf-dugfont.git/
 [submodule "ttfsampler"]
 	path = ttfsampler
-	url = ssh+git://aur@aur4.archlinux.org/ttfsampler.git/
+	url = ssh+git://aur@aur.archlinux.org/ttfsampler.git/
 [submodule "tuxtype"]
 	path = tuxtype
-	url = ssh+git://aur@aur4.archlinux.org/tuxtype.git/
+	url = ssh+git://aur@aur.archlinux.org/tuxtype.git/
 [submodule "unworkable"]
 	path = unworkable
-	url = ssh+git://aur@aur4.archlinux.org/unworkable.git/
+	url = ssh+git://aur@aur.archlinux.org/unworkable.git/
 [submodule "urlview"]
 	path = urlview
-	url = ssh+git://aur@aur4.archlinux.org/urlview.git/
+	url = ssh+git://aur@aur.archlinux.org/urlview.git/
 [submodule "urxvtcd"]
 	path = urxvtcd
-	url = ssh+git://aur@aur4.archlinux.org/urxvtcd.git/
+	url = ssh+git://aur@aur.archlinux.org/urxvtcd.git/
 [submodule "valknut"]
 	path = valknut
-	url = ssh+git://aur@aur4.archlinux.org/valknut.git/
+	url = ssh+git://aur@aur.archlinux.org/valknut.git/
 [submodule "vegastrike-data-svn"]
 	path = vegastrike-data-svn
-	url = ssh+git://aur@aur4.archlinux.org/vegastrike-data-svn.git/
+	url = ssh+git://aur@aur.archlinux.org/vegastrike-data-svn.git/
 [submodule "vegastrike-svn"]
 	path = vegastrike-svn
-	url = ssh+git://aur@aur4.archlinux.org/vegastrike-svn.git/
+	url = ssh+git://aur@aur.archlinux.org/vegastrike-svn.git/
 [submodule "vitetris"]
 	path = vitetris
-	url = ssh+git://aur@aur4.archlinux.org/vitetris.git/
+	url = ssh+git://aur@aur.archlinux.org/vitetris.git/
 [submodule "vym-devel"]
 	path = vym-devel
-	url = ssh+git://aur@aur4.archlinux.org/vym-devel.git/
+	url = ssh+git://aur@aur.archlinux.org/vym-devel.git/
 [submodule "w2do"]
 	path = w2do
-	url = ssh+git://aur@aur4.archlinux.org/w2do.git/
+	url = ssh+git://aur@aur.archlinux.org/w2do.git/
 [submodule "wbxml2"]
 	path = wbxml2
-	url = ssh+git://aur@aur4.archlinux.org/wbxml2.git/
+	url = ssh+git://aur@aur.archlinux.org/wbxml2.git/
 [submodule "wings2"]
 	path = wings2
-	url = ssh+git://aur@aur4.archlinux.org/wings2.git/
+	url = ssh+git://aur@aur.archlinux.org/wings2.git/
 [submodule "wings2-levelpack"]
 	path = wings2-levelpack
-	url = ssh+git://aur@aur4.archlinux.org/wings2-levelpack.git/
+	url = ssh+git://aur@aur.archlinux.org/wings2-levelpack.git/
 [submodule "wings2-musicpack"]
 	path = wings2-musicpack
-	url = ssh+git://aur@aur4.archlinux.org/wings2-musicpack.git/
+	url = ssh+git://aur@aur.archlinux.org/wings2-musicpack.git/
 [submodule "wordforge"]
 	path = wordforge
-	url = ssh+git://aur@aur4.archlinux.org/wordforge.git/
+	url = ssh+git://aur@aur.archlinux.org/wordforge.git/
 [submodule "xmms-scrobbler"]
 	path = xmms-scrobbler
-	url = ssh+git://aur@aur4.archlinux.org/xmms-scrobbler.git/
+	url = ssh+git://aur@aur.archlinux.org/xmms-scrobbler.git/
 [submodule "xpenguins_themes"]
 	path = xpenguins_themes
-	url = ssh+git://aur@aur4.archlinux.org/xpenguins_themes.git/
+	url = ssh+git://aur@aur.archlinux.org/xpenguins_themes.git/
 [submodule "yapet"]
 	path = yapet
-	url = ssh+git://aur@aur4.archlinux.org/yapet.git/
+	url = ssh+git://aur@aur.archlinux.org/yapet.git/
 [submodule "zangband"]
 	path = zangband
-	url = ssh+git://aur@aur4.archlinux.org/zangband.git/
+	url = ssh+git://aur@aur.archlinux.org/zangband.git/
 [submodule "zfo-editor"]
 	path = zfo-editor
-	url = ssh+git://aur@aur4.archlinux.org/zfo-editor.git/
+	url = ssh+git://aur@aur.archlinux.org/zfo-editor.git/
 [submodule "tpp"]
 	path = tpp
-	url = ssh://aur@aur4.archlinux.org/tpp.git
+	url = ssh://aur@aur.archlinux.org/tpp.git

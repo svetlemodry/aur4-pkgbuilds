@@ -142,9 +142,6 @@
 [submodule "django-1.4"]
 	path = django-1.4
 	url = ssh+git://aur@aur.archlinux.org/django-1.4.git/
-[submodule "django-taggit"]
-	path = django-taggit
-	url = ssh+git://aur@aur.archlinux.org/django-taggit.git/
 [submodule "dlume"]
 	path = dlume
 	url = ssh+git://aur@aur.archlinux.org/dlume.git/

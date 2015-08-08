@@ -493,9 +493,6 @@
 [submodule "python2-git-up"]
 	path = python2-git-up
 	url = ssh+git://aur@aur.archlinux.org/python2-git-up.git/
-[submodule "python2-south-0.7"]
-	path = python2-south-0.7
-	url = ssh+git://aur@aur.archlinux.org/python2-south-0.7.git/
 [submodule "qirssi"]
 	path = qirssi
 	url = ssh+git://aur@aur.archlinux.org/qirssi.git/

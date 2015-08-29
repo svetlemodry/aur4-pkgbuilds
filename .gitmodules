@@ -649,3 +649,6 @@
 [submodule "tpp"]
 	path = tpp
 	url = ssh://aur@aur.archlinux.org/tpp.git
+[submodule "python-ipify"]
+	path = python-ipify
+	url = ssh://aur@aur.archlinux.org/python-ipify.git

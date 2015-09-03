@@ -652,3 +652,6 @@
 [submodule "python-ipify"]
 	path = python-ipify
 	url = ssh://aur@aur.archlinux.org/python-ipify.git
+[submodule "python-atomiclong"]
+	path = python-atomiclong
+	url = ssh://aur@aur.archlinux.org/python-atomiclong.git

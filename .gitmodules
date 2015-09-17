@@ -271,9 +271,6 @@
 [submodule "gnopaster"]
 	path = gnopaster
 	url = ssh+git://aur@aur.archlinux.org/gnopaster.git/
-[submodule "gpicsync-svn"]
-	path = gpicsync-svn
-	url = ssh+git://aur@aur.archlinux.org/gpicsync-svn.git/
 [submodule "gps2photo"]
 	path = gps2photo
 	url = ssh+git://aur@aur.archlinux.org/gps2photo.git/
@@ -655,3 +652,6 @@
 [submodule "python-atomiclong"]
 	path = python-atomiclong
 	url = ssh://aur@aur.archlinux.org/python-atomiclong.git
+[submodule "gpicsync"]
+	path = gpicsync
+	url = ssh://aur@aur.archlinux.org/gpicsync.git

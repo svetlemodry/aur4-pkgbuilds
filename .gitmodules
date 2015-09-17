@@ -655,3 +655,6 @@
 [submodule "gpicsync"]
 	path = gpicsync
 	url = ssh://aur@aur.archlinux.org/gpicsync.git
+[submodule "jgnash"]
+	path = jgnash
+	url = ssh+git://aur@aur.archlinux.org/jgnash.git

@@ -478,9 +478,6 @@
 [submodule "python-odorik"]
 	path = python-odorik
 	url = ssh+git://aur@aur.archlinux.org/python-odorik.git/
-[submodule "python2-git-up"]
-	path = python2-git-up
-	url = ssh+git://aur@aur.archlinux.org/python2-git-up.git/
 [submodule "qirssi"]
 	path = qirssi
 	url = ssh+git://aur@aur.archlinux.org/qirssi.git/
@@ -658,3 +655,6 @@
 [submodule "jgnash"]
 	path = jgnash
 	url = ssh+git://aur@aur.archlinux.org/jgnash.git
+[submodule "python-git-up"]
+	path = python-git-up
+	url = ssh+git://aur@aur.archlinux.org/python-git-up.git

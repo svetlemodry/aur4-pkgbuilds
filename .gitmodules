@@ -442,9 +442,6 @@
 [submodule "photomolo"]
 	path = photomolo
 	url = ssh+git://aur@aur.archlinux.org/photomolo.git/
-[submodule "photorecover"]
-	path = photorecover
-	url = ssh+git://aur@aur.archlinux.org/photorecover.git/
 [submodule "picturesort"]
 	path = picturesort
 	url = ssh+git://aur@aur.archlinux.org/picturesort.git/

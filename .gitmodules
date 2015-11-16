@@ -187,9 +187,6 @@
 [submodule "emptyclip"]
 	path = emptyclip
 	url = ssh+git://aur@aur.archlinux.org/emptyclip.git/
-[submodule "eric4-i18n"]
-	path = eric4-i18n
-	url = ssh+git://aur@aur.archlinux.org/eric4-i18n.git/
 [submodule "evad"]
 	path = evad
 	url = ssh+git://aur@aur.archlinux.org/evad.git/

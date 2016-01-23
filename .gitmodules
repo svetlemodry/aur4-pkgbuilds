@@ -655,3 +655,6 @@
 [submodule "opencachemanager-git"]
 	path = opencachemanager-git
 	url = ssh+git://aur@aur.archlinux.org/opencachemanager-git.git
+[submodule "fio_api_plus"]
+	path = fio_api_plus
+	url = ssh+git://aur@aur.archlinux.org/fio_api_plus.git

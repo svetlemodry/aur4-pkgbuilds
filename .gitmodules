@@ -658,3 +658,6 @@
 [submodule "fio_api_plus"]
 	path = fio_api_plus
 	url = ssh+git://aur@aur.archlinux.org/fio_api_plus.git
+[submodule "ctstream"]
+	path = ctstream
+	url = ssh+git://aur@aur.archlinux.org/ctstream.git

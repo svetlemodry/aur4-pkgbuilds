@@ -661,3 +661,6 @@
 [submodule "ctstream"]
 	path = ctstream
 	url = ssh+git://aur@aur.archlinux.org/ctstream.git
+[submodule "sshexport"]
+	path = sshexport
+	url = ssh+git://aur@aur.archlinux.org/sshexport.git

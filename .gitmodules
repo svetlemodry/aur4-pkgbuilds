@@ -532,9 +532,6 @@
 [submodule "srtm2osm"]
 	path = srtm2osm
 	url = ssh+git://aur@aur.archlinux.org/srtm2osm.git/
-[submodule "ssh-installkeys"]
-	path = ssh-installkeys
-	url = ssh+git://aur@aur.archlinux.org/ssh-installkeys.git/
 [submodule "sshconf"]
 	path = sshconf
 	url = ssh+git://aur@aur.archlinux.org/sshconf.git/

@@ -661,3 +661,6 @@
 [submodule "sshexport"]
 	path = sshexport
 	url = ssh+git://aur@aur.archlinux.org/sshexport.git
+[submodule "python-scikit-image"]
+	path = python-scikit-image
+	url = ssh+git://aur@aur.archlinux.org/python-scikit-image.git

@@ -79,9 +79,6 @@
 [submodule "cappuccino"]
 	path = cappuccino
 	url = ssh+git://aur@aur.archlinux.org/cappuccino.git/
-[submodule "castget-unstable"]
-	path = castget-unstable
-	url = ssh+git://aur@aur.archlinux.org/castget-unstable.git/
 [submodule "cdspeed"]
 	path = cdspeed
 	url = ssh+git://aur@aur.archlinux.org/cdspeed.git/

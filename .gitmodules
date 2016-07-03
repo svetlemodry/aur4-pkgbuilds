@@ -517,9 +517,6 @@
 [submodule "sntop"]
 	path = sntop
 	url = ssh+git://aur@aur.archlinux.org/sntop.git/
-[submodule "specto-bzr"]
-	path = specto-bzr
-	url = ssh+git://aur@aur.archlinux.org/specto-bzr.git/
 [submodule "spelt"]
 	path = spelt
 	url = ssh+git://aur@aur.archlinux.org/spelt.git/

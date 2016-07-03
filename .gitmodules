@@ -307,9 +307,6 @@
 [submodule "jobqueue"]
 	path = jobqueue
 	url = ssh+git://aur@aur.archlinux.org/jobqueue.git/
-[submodule "jpilot"]
-	path = jpilot
-	url = ssh+git://aur@aur.archlinux.org/jpilot.git/
 [submodule "jtoolkit"]
 	path = jtoolkit
 	url = ssh+git://aur@aur.archlinux.org/jtoolkit.git/

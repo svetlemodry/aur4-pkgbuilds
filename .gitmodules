@@ -418,9 +418,6 @@
 [submodule "omegat-plugin-yandex"]
 	path = omegat-plugin-yandex
 	url = ssh+git://aur@aur.archlinux.org/omegat-plugin-yandex.git/
-[submodule "opencachemanager"]
-	path = opencachemanager
-	url = ssh+git://aur@aur.archlinux.org/opencachemanager.git/
 [submodule "osmo-svn"]
 	path = osmo-svn
 	url = ssh+git://aur@aur.archlinux.org/osmo-svn.git/

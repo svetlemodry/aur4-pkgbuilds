@@ -652,3 +652,6 @@
 [submodule "python-scikit-image"]
 	path = python-scikit-image
 	url = ssh+git://aur@aur.archlinux.org/python-scikit-image.git
+[submodule "sdees-git"]
+	path = sdees-git
+	url = ssh://aur@aur.archlinux.org/sdees-git.git

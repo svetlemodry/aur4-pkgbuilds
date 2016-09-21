@@ -658,3 +658,6 @@
 [submodule "gliv"]
 	path = gliv
 	url = ssh://aur@aur.archlinux.org/gliv.git
+[submodule "xemacs"]
+	path = xemacs
+	url = ssh://aur@aur.archlinux.org/xemacs.git

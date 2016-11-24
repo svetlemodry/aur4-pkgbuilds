@@ -658,3 +658,6 @@
 [submodule "trezord"]
 	path = trezord
 	url = ssh://aur@aur.archlinux.org/trezord.git
+[submodule "protobuf2"]
+	path = protobuf2
+	url = ssh+git://aur@aur.archlinux.org/protobuf2.git

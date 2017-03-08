@@ -121,9 +121,6 @@
 [submodule "desklaunch"]
 	path = desklaunch
 	url = ssh+git://aur@aur.archlinux.org/desklaunch.git/
-[submodule "detox"]
-	path = detox
-	url = ssh+git://aur@aur.archlinux.org/detox.git/
 [submodule "diff2colorhtml"]
 	path = diff2colorhtml
 	url = ssh+git://aur@aur.archlinux.org/diff2colorhtml.git/

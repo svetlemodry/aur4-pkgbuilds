@@ -397,9 +397,6 @@
 [submodule "nzbperl"]
 	path = nzbperl
 	url = ssh+git://aur@aur.archlinux.org/nzbperl.git/
-[submodule "oggvideotools"]
-	path = oggvideotools
-	url = ssh+git://aur@aur.archlinux.org/oggvideotools.git/
 [submodule "omegat"]
 	path = omegat
 	url = ssh+git://aur@aur.archlinux.org/omegat.git/

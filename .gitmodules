@@ -652,6 +652,6 @@
 [submodule "trezord"]
 	path = trezord
 	url = ssh://aur@aur.archlinux.org/trezord.git
-[submodule "swftools"]
-	path = swftools
-	url = ssh://aur.archlinux.org/swftools.git
+[submodule "uperf"]
+	path = uperf
+	url = ssh+git://aur@aur.archlinux.org/uperf.git

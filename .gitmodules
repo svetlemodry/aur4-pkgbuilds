@@ -16,18 +16,6 @@
 [submodule "acidrip"]
 	path = acidrip
 	url = ssh+git://aur@aur.archlinux.org/acidrip.git/
-[submodule "adesklet-adeskclock"]
-	path = adesklet-adeskclock
-	url = ssh+git://aur@aur.archlinux.org/adesklet-adeskclock.git/
-[submodule "adesklet-aurnotify"]
-	path = adesklet-aurnotify
-	url = ssh+git://aur@aur.archlinux.org/adesklet-aurnotify.git/
-[submodule "adesklet-calendar"]
-	path = adesklet-calendar
-	url = ssh+git://aur@aur.archlinux.org/adesklet-calendar.git/
-[submodule "adesklets"]
-	path = adesklets
-	url = ssh+git://aur@aur.archlinux.org/adesklets.git/
 [submodule "adonthell"]
 	path = adonthell
 	url = ssh+git://aur@aur.archlinux.org/adonthell.git/
@@ -541,9 +529,6 @@
 [submodule "tiger"]
 	path = tiger
 	url = ssh+git://aur@aur.archlinux.org/tiger.git/
-[submodule "tmx2txt"]
-	path = tmx2txt
-	url = ssh+git://aur@aur.archlinux.org/tmx2txt.git/
 [submodule "transolution"]
 	path = transolution
 	url = ssh+git://aur@aur.archlinux.org/transolution.git/

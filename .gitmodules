@@ -481,9 +481,6 @@
 [submodule "shn2make"]
 	path = shn2make
 	url = ssh+git://aur@aur.archlinux.org/shn2make.git/
-[submodule "shorten"]
-	path = shorten
-	url = ssh+git://aur@aur.archlinux.org/shorten.git/
 [submodule "simon"]
 	path = simon
 	url = ssh+git://aur@aur.archlinux.org/simon.git/

@@ -511,9 +511,6 @@
 [submodule "sudsds"]
 	path = sudsds
 	url = ssh+git://aur@aur.archlinux.org/sudsds.git/
-[submodule "superswitcher"]
-	path = superswitcher
-	url = ssh+git://aur@aur.archlinux.org/superswitcher.git/
 [submodule "suricata"]
 	path = suricata
 	url = ssh+git://aur@aur.archlinux.org/suricata.git/

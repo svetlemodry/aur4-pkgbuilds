@@ -274,9 +274,6 @@
 [submodule "http-replicator"]
 	path = http-replicator
 	url = ssh+git://aur@aur.archlinux.org/http-replicator.git/
-[submodule "ignuit"]
-	path = ignuit
-	url = ssh+git://aur@aur.archlinux.org/ignuit.git/
 [submodule "iotop-git"]
 	path = iotop-git
 	url = ssh+git://aur@aur.archlinux.org/iotop-git.git/

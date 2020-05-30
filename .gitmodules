@@ -31,9 +31,6 @@
 [submodule "aoetools"]
 	path = aoetools
 	url = ssh+git://aur@aur.archlinux.org/aoetools.git/
-[submodule "aqua-data-studio"]
-	path = aqua-data-studio
-	url = ssh+git://aur@aur.archlinux.org/aqua-data-studio.git/
 [submodule "archmage"]
 	path = archmage
 	url = ssh+git://aur@aur.archlinux.org/archmage.git/
@@ -583,9 +580,6 @@
 [submodule "zangband"]
 	path = zangband
 	url = ssh+git://aur@aur.archlinux.org/zangband.git/
-[submodule "zfo-editor"]
-	path = zfo-editor
-	url = ssh+git://aur@aur.archlinux.org/zfo-editor.git/
 [submodule "tpp"]
 	path = tpp
 	url = ssh://aur@aur.archlinux.org/tpp.git

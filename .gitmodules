@@ -502,9 +502,6 @@
 [submodule "suricata"]
 	path = suricata
 	url = ssh+git://aur@aur.archlinux.org/suricata.git/
-[submodule "swish-e"]
-	path = swish-e
-	url = ssh+git://aur@aur.archlinux.org/swish-e.git/
 [submodule "throttle"]
 	path = throttle
 	url = ssh+git://aur@aur.archlinux.org/throttle.git/

@@ -244,9 +244,6 @@
 [submodule "gnopaster"]
 	path = gnopaster
 	url = ssh+git://aur@aur.archlinux.org/gnopaster.git/
-[submodule "gps2photo"]
-	path = gps2photo
-	url = ssh+git://aur@aur.archlinux.org/gps2photo.git/
 [submodule "gpsdings"]
 	path = gpsdings
 	url = ssh+git://aur@aur.archlinux.org/gpsdings.git/

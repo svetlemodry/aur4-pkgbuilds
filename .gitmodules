@@ -436,9 +436,6 @@
 [submodule "qirssi"]
 	path = qirssi
 	url = ssh+git://aur@aur.archlinux.org/qirssi.git/
-[submodule "rainlendar-lite"]
-	path = rainlendar-lite
-	url = ssh+git://aur@aur.archlinux.org/rainlendar-lite.git/
 [submodule "ranpwd"]
 	path = ranpwd
 	url = ssh+git://aur@aur.archlinux.org/ranpwd.git/

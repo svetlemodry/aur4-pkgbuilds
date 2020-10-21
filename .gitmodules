@@ -616,3 +616,6 @@
 [submodule "bolt-git"]
 	path = bolt-git
 	url = ssh://aur@aur.archlinux.org/bolt-git.git
+[submodule "stardict-de-cz"]
+	path = stardict-de-cz
+	url = ssh://aur@aur.archlinux.org/stardict-de-cz.git

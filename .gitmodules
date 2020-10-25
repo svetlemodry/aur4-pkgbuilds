@@ -91,9 +91,6 @@
 [submodule "dbhub"]
 	path = dbhub
 	url = ssh+git://aur@aur.archlinux.org/dbhub.git/
-[submodule "dclib"]
-	path = dclib
-	url = ssh+git://aur@aur.archlinux.org/dclib.git/
 [submodule "debian-gdm-themes"]
 	path = debian-gdm-themes
 	url = ssh+git://aur@aur.archlinux.org/debian-gdm-themes.git/
@@ -526,9 +523,6 @@
 [submodule "urxvtcd"]
 	path = urxvtcd
 	url = ssh+git://aur@aur.archlinux.org/urxvtcd.git/
-[submodule "valknut"]
-	path = valknut
-	url = ssh+git://aur@aur.archlinux.org/valknut.git/
 [submodule "vegastrike-data-svn"]
 	path = vegastrike-data-svn
 	url = ssh+git://aur@aur.archlinux.org/vegastrike-data-svn.git/

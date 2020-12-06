@@ -31,9 +31,6 @@
 [submodule "aoetools"]
 	path = aoetools
 	url = ssh+git://aur@aur.archlinux.org/aoetools.git/
-[submodule "archmage"]
-	path = archmage
-	url = ssh+git://aur@aur.archlinux.org/archmage.git/
 [submodule "arno-iptables-firewall"]
 	path = arno-iptables-firewall
 	url = ssh+git://aur@aur.archlinux.org/arno-iptables-firewall.git/

@@ -28,9 +28,6 @@
 [submodule "antiwm"]
 	path = antiwm
 	url = ssh+git://aur@aur.archlinux.org/antiwm.git/
-[submodule "aoetools"]
-	path = aoetools
-	url = ssh+git://aur@aur.archlinux.org/aoetools.git/
 [submodule "arno-iptables-firewall"]
 	path = arno-iptables-firewall
 	url = ssh+git://aur@aur.archlinux.org/arno-iptables-firewall.git/
@@ -499,9 +496,6 @@
 [submodule "tiger"]
 	path = tiger
 	url = ssh+git://aur@aur.archlinux.org/tiger.git/
-[submodule "transolution"]
-	path = transolution
-	url = ssh+git://aur@aur.archlinux.org/transolution.git/
 [submodule "ttf-dugfont"]
 	path = ttf-dugfont
 	url = ssh+git://aur@aur.archlinux.org/ttf-dugfont.git/
@@ -610,3 +604,6 @@
 [submodule "stardict-de-cz"]
 	path = stardict-de-cz
 	url = ssh://aur@aur.archlinux.org/stardict-de-cz.git
+[submodule "libdatovka"]
+	path = libdatovka
+	url = ssh://aur@aur.archlinux.org/libdatovka.git

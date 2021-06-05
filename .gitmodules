@@ -502,9 +502,6 @@
 [submodule "ttfsampler"]
 	path = ttfsampler
 	url = ssh+git://aur@aur.archlinux.org/ttfsampler.git/
-[submodule "tuxtype"]
-	path = tuxtype
-	url = ssh+git://aur@aur.archlinux.org/tuxtype.git/
 [submodule "unworkable"]
 	path = unworkable
 	url = ssh+git://aur@aur.archlinux.org/unworkable.git/

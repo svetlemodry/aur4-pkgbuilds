@@ -76,9 +76,6 @@
 [submodule "cstools"]
 	path = cstools
 	url = ssh+git://aur@aur.archlinux.org/cstools.git/
-[submodule "datovka"]
-	path = datovka
-	url = ssh+git://aur@aur.archlinux.org/datovka.git/
 [submodule "datovka-git"]
 	path = datovka-git
 	url = ssh+git://aur@aur.archlinux.org/datovka-git.git/

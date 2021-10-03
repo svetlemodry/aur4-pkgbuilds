@@ -598,6 +598,3 @@
 [submodule "stardict-de-cz"]
 	path = stardict-de-cz
 	url = ssh://aur@aur.archlinux.org/stardict-de-cz.git
-[submodule "libdatovka"]
-	path = libdatovka
-	url = ssh://aur@aur.archlinux.org/libdatovka.git

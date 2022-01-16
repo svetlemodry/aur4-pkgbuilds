@@ -580,9 +580,6 @@
 [submodule "sdees-git"]
 	path = sdees-git
 	url = ssh://aur@aur.archlinux.org/sdees-git.git
-[submodule "trezord"]
-	path = trezord
-	url = ssh://aur@aur.archlinux.org/trezord.git
 [submodule "uperf"]
 	path = uperf
 	url = ssh+git://aur@aur.archlinux.org/uperf.git

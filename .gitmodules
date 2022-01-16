@@ -481,9 +481,6 @@
 [submodule "sudsds"]
 	path = sudsds
 	url = ssh+git://aur@aur.archlinux.org/sudsds.git/
-[submodule "suricata"]
-	path = suricata
-	url = ssh+git://aur@aur.archlinux.org/suricata.git/
 [submodule "throttle"]
 	path = throttle
 	url = ssh+git://aur@aur.archlinux.org/throttle.git/

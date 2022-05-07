@@ -304,9 +304,6 @@
 [submodule "lotr"]
 	path = lotr
 	url = ssh+git://aur@aur.archlinux.org/lotr.git/
-[submodule "lzlib"]
-	path = lzlib
-	url = ssh+git://aur@aur.archlinux.org/lzlib.git/
 [submodule "magicrescue"]
 	path = magicrescue
 	url = ssh+git://aur@aur.archlinux.org/magicrescue.git/
